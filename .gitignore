@@ -1,1 +1,13 @@
-Режим вывода команд на экран (ECHO) включен.
+
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
+build/
+dist/
+personal_settings.txt
+secret_keys.txt
+*~
+*.ba
